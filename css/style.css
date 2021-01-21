@@ -1,0 +1,17 @@
+.bgc{
+    min-height: 100px;
+    background-color: #080608   ;
+}
+.navbar-nav{
+
+    font-size: 30px;
+    color: #fff;
+}
+.nav-link{
+    margin-right: 40px;
+    color: #fff;
+}
+.collap{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
